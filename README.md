@@ -1,5 +1,9 @@
-# computer-architecture
+# Simple 8 Bit Computer
 
+
+#### ![Link To Video](https://www.youtube.com/watch?v=bzLV9FmAsYg)
+
+![](sim_cpu.png)
 
 - 8 bit CPU architecture 
 - 16 different instructions based on the suitability of our
